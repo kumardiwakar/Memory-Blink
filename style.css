@@ -1,0 +1,36 @@
+body {
+    text-align: center;            
+}
+#heading{
+    color: red;
+}
+#button{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+#StartButton{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
